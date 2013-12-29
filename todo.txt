@@ -1,0 +1,35 @@
+
+
+
+
+profile
+
+
+flatten with preserve area
+
+display generation count
+
+display generation rate
+
+display draw time
+
+display area error, perimeter error, and missing area count  in population list
+
+error includes penalty for number of isolated areas
+
+
+recenter to 0,0 in mutate
+
+
+crossover
+
+
+
+spline model
+
+
+range of vertices scale out or in
+
+
+show whole world circle to show relative %
+
